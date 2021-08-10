@@ -1,0 +1,16 @@
+/*ctrl slash  "comment"*/
+
+.pa {
+    /*  color: rgb(255, 17, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-size: 20px;
+    line-height: 1.41538;
+    font-style: italic
+}
+
+.H {
+    font-style: oblique;
+    font-variant: all-petite-caps;
+    text-align: center;
+    /* التنسيقات بالتجربه من المتصفح وتغيير حتى ايجاد الشكل المناسب*/
+}
